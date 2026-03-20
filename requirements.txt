@@ -1,6 +1,9 @@
 asgiref==3.11.1
 Django==6.0.3
+django-filter==25.2
 djangorestframework==3.16.1
+Faker==40.11.0
 Markdown==3.10.2
 python-dotenv==1.2.2
 sqlparse==0.5.5
+validate_docbr==1.11.1
